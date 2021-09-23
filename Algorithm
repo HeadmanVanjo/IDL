@@ -1,0 +1,8 @@
+1: Type the source code inputs for 5 Users 
+  2: Output the inputed 
+  scores as a string or number concertenated.
+  3:Using methods calculate total scores for each student
+  4:Use relational Operators to group the students according to their totals then position into {
+	Higher score => Highest Total.
+	Lowest Score => Lowest total.
+	Average =>Total score y students/4 }
